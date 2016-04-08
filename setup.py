@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 from bootstrapform.meta import VERSION
 
 setup(
-    name='django-bootstrap-form',
+    name='Main form for filter',
     version=str(VERSION),
-    description="django-bootstrap-form",
+    description="kkkkkk info ",
     classifiers=[
         "Programming Language :: Python",
         "Topic :: Software Development :: Libraries :: Python Modules",
